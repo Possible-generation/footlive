@@ -17,12 +17,13 @@ function App() {
           <div className='pr-6 text-yellow-50'><a href="https://footballlive-three.vercel.app/">DEMO</a> </div>
           <div className='pr-6 text-yellow-50'><a href="#features">FEATURES</a> </div>
           <div className='pr-6 text-yellow-50'><a href="#about">ABOUT</a> </div>
+             <div className='pr-6 text-yellow-50'><a href="https://youtu.be/ZU6fG9Zj1e8">INSPIRATION</a> </div>
         </div>
       </header>
       <section style={styles}  className='bg-contain bg-center h-full pb-12'>
         <div className=' text-center pt-12 text-neutral-400 text-8xl font-mono font-semibold'>FOOTBALL LIVE </div>
         <span className='text-center text-white mx-auto flex justify-center'>Stay up-to-date with live match commentaries, score updates, and detailed post-match reviews that capture the excitement and drama of the beautiful game. </span>
-        <button className='lg:mt-96 text-center justify-items-center mx-auto flex bg-slate-100 rounded py-4 px-7 font-mono font-medium'>DEMO</button>
+        <button className='lg:mt-96 text-center justify-items-center mx-auto flex bg-slate-100 rounded py-4 px-7 font-mono font-medium'> <a href="https://footballlive-three.vercel.app/">DEMO</a></button>
       </section>
       <section className='bg-slate-400' id='features'>
         <div className='text-center text-white text-lg pt-7 pb-10'>KEY FEATURES</div>
